@@ -1,5 +1,7 @@
 # Scraping Google Images
 
+The original tutorial link is here: https://pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/
+
 This method is suitable for downloading images from Google Images to be used in deep learning datasets, such as for YOLO or Transfer Learning.
 
 ## How to use:
